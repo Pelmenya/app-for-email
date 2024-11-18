@@ -8,6 +8,6 @@
     "@maizzle/framework": "latest",
     "tailwindcss-box-shadow": "^2.0.3",
     "tailwindcss-email-variants": "^3.0.1",
-    "tailwindcss-mso": "^1.4.3"
+    "tailwindcss-mso": "^2.0.0"
   }
 }
