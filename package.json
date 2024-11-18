@@ -7,7 +7,7 @@
   "dependencies": {
     "@maizzle/framework": "latest",
     "tailwindcss-box-shadow": "^2.0.3",
-    "tailwindcss-email-variants": "^3.0.1",
+    "tailwindcss-email-variants": "^3.0.2",
     "tailwindcss-mso": "^1.4.3"
   }
 }
